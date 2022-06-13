@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398873974143",
+    "project_id": "baterina-crud",
+    "storage_bucket": "baterina-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398873974143:android:af436afaa114dce312b64a",
+        "android_client_info": {
+          "package_name": "com.example.baterina_firebase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398873974143-36n1hn2heaentg12gblq1kt5th27dnee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_aD_c5EBaMD21Bl823Uu5d8o--f3Vgis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398873974143-36n1hn2heaentg12gblq1kt5th27dnee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
